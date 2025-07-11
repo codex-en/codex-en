@@ -105,7 +105,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=codex-en.codex-en&left_text=Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=codex-en.codex-en&left_text=Viewies"  />
 </div>
 
 ###
